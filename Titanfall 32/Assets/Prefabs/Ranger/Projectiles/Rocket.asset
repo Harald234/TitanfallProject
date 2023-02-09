@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 342665109e2d7934e93e5fc6e8228a53, type: 3}
+  m_Name: Rocket
+  m_EditorClassIdentifier: 
+  name: Rocket
+  damage: 0
+  armorPiercing: 0
+  explode: 0
+  explosionRange: 3
+  isSeeking: 0
+  hasGravityField: 1
+  useGravity: 0
+  bounciness: 0.7
+  maxCollisions: 10
+  lifeTime: 10
+  impactEffect: {fileID: 6184535327023240012, guid: 1c52d50966761454c8596d0cdc21016b, type: 3}

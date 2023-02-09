@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a775300b09f690e4892b2d9a44b4b121, type: 3}
+  m_Name: TripleLauncher
+  m_EditorClassIdentifier: 
+  name: TripleLauncher
+  type: AntiTitan
+  family: Launchers
+  projectile: {fileID: 8416730181477394951, guid: 93976456700883d44ae5b83018315608, type: 3}
+  Automatic: 1
+  bulletVelocityForce: 100
+  damage: 35
+  bulletsPerShot: 1
+  spread: 0.06
+  ammoLeft: 15
+  magSize: 15
+  fireRate: 340
+  reloadTime: 2
+  emptyMagReloadTime: 2
+  isReloading: 0
+  recoilX: 0.9
+  recoilY: -5
+  recoilZ: 5
+  snappiness: 8
+  returnSpeed: 3

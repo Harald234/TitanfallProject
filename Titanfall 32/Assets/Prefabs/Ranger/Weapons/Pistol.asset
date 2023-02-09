@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f17499ca57882d34a849a86a052dc335, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  type: Secondary
+  family: SideArms
+  Automatic: 0
+  hitscan: 1
+  damage: 22
+  range: 170
+  spread: 0.01
+  bulletsPerShot: 1
+  armorPiercing: 3
+  projectile: {fileID: 0}
+  bulletVelocityForce: 0
+  ammoLeft: 13
+  magSize: 13
+  fireRate: 200
+  reloadTime: 1
+  isReloading: 0
+  recoilX: -1
+  recoilY: 1
+  recoilZ: 0.3
+  snappiness: 5
+  returnSpeed: 4
+  fireSound: {fileID: 8300000, guid: d97a1a23e47687a4f886e3c458bd731e, type: 3}
+  muzzleFlash: {fileID: 285066435499994897, guid: 942e2123700f4c140ad3b8bda1e8500e, type: 3}
+  impactEffect: {fileID: 100002, guid: 13143a5ba8c2ec9409e41f692208f7a9, type: 3}
+  hitEffect: {fileID: 100002, guid: 98b99e8ad4e69f543a37f001a68992de, type: 3}

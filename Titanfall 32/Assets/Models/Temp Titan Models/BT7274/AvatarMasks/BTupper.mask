@@ -1,0 +1,657 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BTupper
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.021
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.022
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.023
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.024
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.025
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.026
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.027
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.028
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.029
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.030
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.031
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.032
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.033
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.034
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.035
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.036
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.037
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.038
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.039
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.061
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_SEModelMesh.062
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_cam
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_cam/def_c_cam_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_hatchHead
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_hatchHead/def_c_hatchHead_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_intBase
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_intBase/def_c_intBase_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_neckA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_neckA/jx_c_neckB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_neckA/jx_c_neckB/def_c_neckB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_neckA/jx_c_neckB/def_c_neckB/def_c_head
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_c_neckA/jx_c_neckB/def_c_neckB/def_c_head/def_c_head_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_c_eyelid
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_c_eyelid/def_c_eyelid_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_c_eyelid_wraith
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_c_eyelid_wraith/def_c_eyelid_wraith_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_chest_laser
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_chest_laser/def_chest_laser_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_chest_laser_tone
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_chest_laser_tone/def_chest_laser_tone_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_1/def_l_eyelid_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_1_wraith
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_1_wraith/def_l_eyelid_1_wraith_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_2/def_l_eyelid_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_2_wraith
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_l_eyelid_2_wraith/def_l_eyelid_2_wraith_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_1/def_r_eyelid_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_1_wraith
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_1_wraith/def_r_eyelid_1_wraith_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/def_r_eyelid_2/def_r_eyelid_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_1/jx_hb_hatch_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_1/jx_hb_hatch_2/jx_hb_hatch_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_1/jx_hb_hatch_2/jx_hb_hatch_3/jx_hb_hatch_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_side_l
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_side_l/jx_hb_hatch_side_l_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_side_r
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_high/jx_hb_hatch_side_r/jx_hb_hatch_side_r_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_low
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_low/def_embark_hatch_low_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_top
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_embark_hatch_top/def_embark_hatch_top_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_inner1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_inner1/def_l_lsr_pod_arm_inner2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_inner1/def_l_lsr_pod_arm_inner2/def_l_lsr_pod_arm_inner2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_outer1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_outer1/def_l_lsr_pod_arm_outer2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_box/def_l_lsr_pod_arm_outer1/def_l_lsr_pod_arm_outer2/def_l_lsr_pod_arm_outer2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1/def_l_missile_wing_in2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1/def_l_missile_wing_in2/def_l_missile_wing_in_hook1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1/def_l_missile_wing_in2/def_l_missile_wing_in_hook1/def_l_missile_wing_in_hook1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1/def_l_missile_wing_in2/def_l_missile_wing_in_hook2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_in1/def_l_missile_wing_in2/def_l_missile_wing_in_hook2/def_l_missile_wing_in_hook2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1/def_l_missile_wing_out2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1/def_l_missile_wing_out2/def_l_missile_wing_out_hook1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1/def_l_missile_wing_out2/def_l_missile_wing_out_hook1/def_l_missile_wing_out_hook1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1/def_l_missile_wing_out2/def_l_missile_wing_out_hook2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_base_pod/def_l_missile_root/def_l_missile_leg1/def_l_missile_leg2/def_l_missile_leg3/def_l_missile_leg4/def_l_missile_wing_out1/def_l_missile_wing_out2/def_l_missile_wing_out_hook2/def_l_missile_wing_out_hook2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_forearm
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_forearm/def_l_forearm_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finIndexA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finIndexA/def_l_finIndexB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finIndexA/def_l_finIndexB/def_l_finIndexC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finIndexA/def_l_finIndexB/def_l_finIndexC/def_l_finIndexC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finMidA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finMidA/def_l_finMidB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finMidA/def_l_finMidB/def_l_finMidC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finMidA/def_l_finMidB/def_l_finMidC/def_l_finMidC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finPinkyA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finPinkyA/def_l_finPinkyB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finPinkyA/def_l_finPinkyB/def_l_finPinkyC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finPinkyA/def_l_finPinkyB/def_l_finPinkyC/def_l_finPinkyC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finRingA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finRingA/def_l_finRingB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finRingA/def_l_finRingB/def_l_finRingC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finRingCarpal/def_l_finRingA/def_l_finRingB/def_l_finRingC/def_l_finRingC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finThumbA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finThumbA/def_l_finThumbB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finThumbA/def_l_finThumbB/def_l_finThumbC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/def_l_finThumbA/def_l_finThumbB/def_l_finThumbC/def_l_finThumbC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/ja_l_propHand
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/def_l_wrist/ja_l_propHand/ja_l_propHand_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/jx_vortex
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbow/jx_vortex/jx_vortex_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbowB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderMid/def_l_elbowB/def_l_elbowB_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderTwist
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderTwist/jx_l_arm_jiggle_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_clav/def_l_shoulder/def_l_shoulderTwist/jx_l_arm_jiggle_2/jx_l_arm_jiggle_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_1_end/def_l_spine_shock_1_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_2_end/def_l_spine_shock_2_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_3_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_l_spine_shock_3_end/def_l_spine_shock_3_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_box
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_box/def_r_missile_box_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1/def_r_missile_wing_in2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1/def_r_missile_wing_in2/def_r_missile_wing_in_hook1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1/def_r_missile_wing_in2/def_r_missile_wing_in_hook1/def_r_missile_wing_in_hook1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1/def_r_missile_wing_in2/def_r_missile_wing_in_hook2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_in1/def_r_missile_wing_in2/def_r_missile_wing_in_hook2/def_r_missile_wing_in_hook2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1/def_r_missile_wing_out2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1/def_r_missile_wing_out2/def_r_missile_wing_out_hook1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1/def_r_missile_wing_out2/def_r_missile_wing_out_hook1/def_r_missile_wing_out_hook1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1/def_r_missile_wing_out2/def_r_missile_wing_out_hook2
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_base_pod/def_r_missile_root/def_r_missile_leg1/def_r_missile_leg2/def_r_missile_leg3/def_r_missile_leg4/def_r_missile_wing_out1/def_r_missile_wing_out2/def_r_missile_wing_out_hook2/def_r_missile_wing_out_hook2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_forearm
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_forearm/def_r_forearm_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finIndexA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finIndexA/def_r_finIndexB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finIndexA/def_r_finIndexB/def_r_finIndexC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finIndexA/def_r_finIndexB/def_r_finIndexC/def_r_finIndexC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finMidA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finMidA/def_r_finMidB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finMidA/def_r_finMidB/def_r_finMidC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finMidA/def_r_finMidB/def_r_finMidC/def_r_finMidC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finPinkyA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finPinkyA/def_r_finPinkyB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finPinkyA/def_r_finPinkyB/def_r_finPinkyC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finPinkyA/def_r_finPinkyB/def_r_finPinkyC/def_r_finPinkyC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finRingA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finRingA/def_r_finRingB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finRingA/def_r_finRingB/def_r_finRingC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finRingCarpal/def_r_finRingA/def_r_finRingB/def_r_finRingC/def_r_finRingC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finThumbA
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finThumbA/def_r_finThumbB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finThumbA/def_r_finThumbB/def_r_finThumbC
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/def_r_finThumbA/def_r_finThumbB/def_r_finThumbC/def_r_finThumbC_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/ja_r_propHand
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbow/def_r_wrist/ja_r_propHand/ja_r_propHand_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbowB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderMid/def_r_elbowB/def_r_elbowB_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderTwist
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderTwist/jx_r_arm_jiggle_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_clav/def_r_shoulder/def_r_shoulderTwist/jx_r_arm_jiggle_2/jx_r_arm_jiggle_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_eyeball
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_eyeball/def_r_eyeball_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_1_end/def_r_spine_shock_1_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_2_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_2_end/def_r_spine_shock_2_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_3_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/def_r_spine_shock_3_end/def_r_spine_shock_3_end_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/ja_c_propGun
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/ja_c_propGun/ValveBiped.Bip01_R_Hand
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/ja_c_propGun/ValveBiped.Bip01_R_Hand/ValveBiped.Bip01_R_Hand_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_c_rodeo
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_c_rodeo/jx_c_rodeo_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hatch_panel
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hatch_panel/jx_hatch_panel_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_back_1
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_back_1/jx_hb_back_1_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_back_vents
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_back_vents/jx_hb_back_vents_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_l_side_vents
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_l_side_vents/jx_hb_l_side_vents_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_r_side_vents
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_r_side_vents/jx_hb_r_side_vents_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_side_l
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_side_l/jx_hb_side_l_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_side_r
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_side_r/jx_hb_side_r_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_back
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_back/jx_hb_top_back_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_front
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_front/jx_hb_top_front_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_l_side
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_l_side/jx_hb_top_l_side_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_r_side
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_hb_top_r_side/jx_hb_top_r_side_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_rifle_holster
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_c_spineA/def_c_spineB/def_c_spineC/jx_rifle_holster/jx_rifle_holster_end
+    m_Weight: 1
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_foot_shock_5_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_foot_shock_5_end/def_l_foot_shock_5_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_ball
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_ball/jx_hb_l_ball
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_ball/jx_hb_l_ball/jx_hb_l_ball_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_ball/jx_l_toe
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_ball/jx_l_toe/jx_l_toe_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_1/def_l_foot_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_2/def_l_foot_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_3/def_l_foot_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_4
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/def_l_foot_shock_4/def_l_foot_shock_4_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/jx_hb_l_ankle
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_ankle/jx_hb_l_ankle/jx_hb_l_ankle_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_1_end/def_l_foot_shock_1_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_2_end/def_l_foot_shock_2_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_3_end/def_l_foot_shock_3_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_4_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_4_end/def_l_foot_shock_4_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_5
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_knee/def_l_foot_shock_5/def_l_foot_shock_5_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_kneeB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_hip/def_l_thigh/def_l_thighLow/def_l_kneeB/def_l_kneeB_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_1/def_l_spine_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_2/def_l_spine_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_l_spine_shock_3/def_l_spine_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_foot_shock_5_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_foot_shock_5_end/def_r_foot_shock_5_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_ball
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_ball/jx_hb_r_ball
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_ball/jx_hb_r_ball/jx_hb_r_ball_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_ball/jx_r_toe
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_ball/jx_r_toe/jx_r_toe_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_1/def_r_foot_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_2/def_r_foot_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_3/def_r_foot_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_4
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/def_r_foot_shock_4/def_r_foot_shock_4_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/jx_hb_r_ankle
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_ankle/jx_hb_r_ankle/jx_hb_r_ankle_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_1_end/def_r_foot_shock_1_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_2_end/def_r_foot_shock_2_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_3_end/def_r_foot_shock_3_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_4_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_4_end/def_r_foot_shock_4_end_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_5
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_knee/def_r_foot_shock_5/def_r_foot_shock_5_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_kneeB
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_hip/def_r_thigh/def_r_thighLow/def_r_kneeB/def_r_kneeB_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_1
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_1/def_r_spine_shock_1_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_2/def_r_spine_shock_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/def_c_hip/def_r_spine_shock_3/def_r_spine_shock_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera/jx_c_camera_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera_2
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera_2/jx_c_camera_2_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera_3
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_pov/jx_c_camera_3/jx_c_camera_3_end
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_start
+    m_Weight: 0
+  - m_Path: titan_medium_vanguard_LOD0_skel/jx_c_delta/jx_c_start/jx_c_start_end
+    m_Weight: 0
